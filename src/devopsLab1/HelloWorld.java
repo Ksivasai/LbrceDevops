@@ -5,3 +5,6 @@ public class HelloWorld {
 			System.out.println("hello");
 		}
 }
+public class hello{
+	System.out.println("Devops lab");
+}
